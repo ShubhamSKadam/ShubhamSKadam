@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A Young Code Wizard 🤓, Front end engineer</h3>
 
-- 🌱 I’m currently learning React and Node.js **React and Node.js**
+- 🌱 I’m currently learning **React and Node.js**
 
-- 👯 I’m looking to collaborate on Developing new open-source projects. **Developing new open-source projects**
+- 👯 I’m looking to collaborate on **Developing new open-source projects**
 
 - 📝 I regularly write articles on [https://hashnode.com/@ShubhamSKadam](https://hashnode.com/@ShubhamSKadam)
 
-- 💬 Ask me about JavaScript, React **React**
+- 💬 Ask me about **JavaScript React**
 
 - 📫 How to reach me **shubhamskadam99@outlook.com**
 
