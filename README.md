@@ -23,9 +23,6 @@ I have a passion for programming in web. My objective is to get better in crafti
 
 <br>
 
-<summary><b>⚡ Github Public Stats</b></summary>
-<br>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSKadam&show_icons=true&theme=radical&count_private=true" alt="ShubhamSKadam" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSKadam&layout=compact&theme=radical" alt="MelvinAguilar" height="165">
 </p>
