@@ -1,16 +1,35 @@
-### Hi there 👋
+![I am GitHub Readme Generator's creator](C:\Users\shubh\Downloads\MelvinAguilar-main\MelvinAguilar-main\assets\header.png)
 
-<!--
-**ShubhamSKadam/ShubhamSKadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm an aspiring software engineer with a passion for programming in web. My objective is to get better in crafting and developing scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly acquiring knowledge and experimenting new technologies and frameworks to find the best solutions to the problems at hand.
+</p>
+<br>
+<!---
 
-Here are some ideas to get you started:
+- Web illustrations by Storyset ( https://storyset.com/web )
+--->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/211714560-d889e973-e44e-45bb-a4f1-6901c269837b.svg" width="360px"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/211714560-d889e973-e44e-45bb-a4f1-6901c269837b.svg" width="360px"/>
+--->
+
+<br>
+
+
+- 🌱 I’m currently learning **React and Node.js**.
+- 📫 How to reach me: **shubhamskadam99@outlook.com**.
+- 👯 I’m looking to collaborate on **Developing new open-source projects**.
+
+<br>
+
+<summary><b>⚡ Github Public Stats</b></summary>
+<br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamSKadam&show_icons=true&theme=radical&count_private=true" alt="ShubhamSKadam" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSKadam&layout=compact&theme=radical" alt="MelvinAguilar" height="165">
+</p>
+
+<div align="right">
+
+  
