@@ -1,4 +1,4 @@
-
+<img src="assets/header.png" alt="drawing" style="width:100%;"/>
 
 <p align="center">
 I'm an aspiring software engineer with a passion for programming in web. My objective is to get better in crafting and developing scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly acquiring knowledge and experimenting new technologies and frameworks to find the best solutions to the problems at hand.
