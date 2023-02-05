@@ -1,4 +1,4 @@
-  <img src="assets/h.png" height="300px"/>
+  <img src="assets/h.png" height="280px"/>
   
 - 🌱 I’m currently learning **React and Node.js**
 
