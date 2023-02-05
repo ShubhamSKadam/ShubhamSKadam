@@ -20,18 +20,18 @@
 <h2 align="center">🛠️ Languages and Tools</h2>
 
 
-### 🏄‍♂️ Frontend
+<h3 align="left">🏄‍♂️ Frontend</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,figma,xd)](https://skillicons.dev)
-<hr/>
 
-### 🧰 Backend
+<h3 align="left">🏄‍🧰 Backend</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
-<hr/>
 
-### 🗄️ Database
+<h3 align="left">🗄️ Database</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
-<hr/>
 
-### 💻 Additional Programming Languages and Tools
+<h3 align="left"> 💻 Additional Programming Languages and Tools</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,git,github,linux,docker)](https://skillicons.dev)
-<hr/>
