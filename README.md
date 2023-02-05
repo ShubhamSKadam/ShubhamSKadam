@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">A Young Code Wizard 🤓, Front end engineer</h3>
+<img src="assets/header.png" height="400px" width="100%"/>
 
 - 🌱 I’m currently learning **React and Node.js**
 
