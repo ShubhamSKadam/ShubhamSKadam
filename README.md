@@ -4,9 +4,7 @@
 
 - 👯 I’m looking to collaborate on **Developing new open-source projects**
 
-- 📝 I regularly write articles on [https://hashnode.com/@ShubhamSKadam](https://hashnode.com/@ShubhamSKadam)
-
-- 💬 Ask me about **JavaScript React**
+- 📝 I write articles on [https://hashnode.com/@ShubhamSKadam](https://hashnode.com/@ShubhamSKadam)
 
 - 📫 How to reach me **shubhamskadam99@outlook.com**
 
