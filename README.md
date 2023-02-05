@@ -1,4 +1,6 @@
   <img src="assets/h1.png" height="240px"/>
+  
+- 🔭 I'm currently leveling up my skills and mastering the art of front-end.
 
 - 👯 I’m looking to collaborate on **Developing new open-source projects**
 
