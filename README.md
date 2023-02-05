@@ -1,5 +1,5 @@
-<img src="assets/header.png" height="400px" width="100%"/>
-
+  <img src="assets/h.png" height="300px"/>
+  
 - 🌱 I’m currently learning **React and Node.js**
 
 - 👯 I’m looking to collaborate on **Developing new open-source projects**
