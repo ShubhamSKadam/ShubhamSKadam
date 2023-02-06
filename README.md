@@ -35,7 +35,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,figma,xd)](https://skillicons.dev)
 
-<h3 align="left">🏄‍🧰 Backend</h3>
+<h3 align="left">🧰 Backend</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
