@@ -1,12 +1,4 @@
   <img src="assets/h1.png" height="240px"/>
-  
-- 🔭 I'm currently leveling up my skills and mastering the art of front-end.
-
-- 👯 I’m looking to collaborate on **Developing new open-source projects**
-
-- 📝 I write articles on [https://hashnode.com/@ShubhamSKadam](https://hashnode.com/@ShubhamSKadam)
-
-- 📫 How to reach me **shubhamskadam99@outlook.com**
 <br/>
 <div align="center">
 <h2>📫 Connect with me</h2>
