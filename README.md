@@ -1,4 +1,3 @@
-  <img src="assets/h1.png" height="240px"/>
 <br/>
 
 <h2 align="center">📊 Github Stats</h2>
