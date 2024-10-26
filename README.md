@@ -25,7 +25,7 @@
 
 <h3 align="left">🏄‍♂️ Frontend</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,figma,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux)](https://skillicons.dev)
 
 <h3 align="left">🧰 Backend</h3>
 
@@ -35,6 +35,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
-<h3 align="left"> 💻 Additional Programming Languages and Tools</h3>
+<h3 align="left"> 💻 Additional Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,git,github,linux,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,git,linux,androidstudio,firebase)](https://skillicons.dev)
