@@ -1,14 +1,6 @@
   <img src="assets/h1.png" height="240px"/>
 <br/>
-<div align="center">
-<h2>📫 Connect with me</h2>
-<p>
-<a href="https://twitter.com/shubhamskadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamskadam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham-kadam1100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kadam1100" height="30" width="40" /></a>
-<!-- <a href="https://leetcode.com/u/crypticcipher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamskadam" height="30" width="40" /></a> -->
-</p>
-</div>
-<br/>
+
 <h2 align="center">📊 Github Stats</h2>
 
 <div align = "center">
